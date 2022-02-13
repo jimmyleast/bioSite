@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #1c3f21;
+    background-color: #38479b83;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -16,8 +16,8 @@ h1 {
 
 #navbar {
     overflow: hidden;
-    background-color: #221f41;
-    border-bottom: 15px solid #1c3f21;
+    background-color: #2616d1;
+    border-bottom: 15px solid #38479b83;
 }
 
 #navbar a {
@@ -30,7 +30,7 @@ h1 {
 }
 
 #navbar a:hover {
-    background-color: #1c3f21;
+    background-color: #38479b83;
     color: #040108;
 }
 
@@ -66,8 +66,8 @@ h1 {
 }
 
 footer {
-    background-color: #1c3f21;
-    position: absolute;
+    background-color: #38479b83;
+    position: auto;
     bottom: 0;
     width: 100%;
 }
@@ -86,7 +86,7 @@ footer a {
     color: #FFF;
 }
 html {
-    background-color: rgba(135, 243, 73, 0.2);
+    background-color: rgba(106, 123, 216, 0.2);
 }
 
 #image-gallery {
@@ -128,7 +128,7 @@ h1, h3, figcaption {
 }
 
 .gallery-item {
-    border: 1px solid rgba(185, 63, 8, 1);
-    border-radius: 15px;
-    padding: 5px;
+    border: 10px solid rgb(2, 8, 24);
+    border-radius: 30px;
+    padding: 50px;
 }
